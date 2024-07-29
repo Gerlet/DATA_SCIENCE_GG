@@ -1,0 +1,3 @@
+cesar mayta,cesar@gmail.com,89798789
+ana martinez,ana@gmail.com,89789897
+Oscar Martinez,oscar@gmail.com,23232323
